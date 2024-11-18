@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "mongodb-cdc-kafka",
   "private": true,
   "scripts": {
     "build": "turbo build",
